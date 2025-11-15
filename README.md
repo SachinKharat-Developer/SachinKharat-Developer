@@ -1,12 +1,21 @@
-<h1 align="center">Hi, I'm Sachin 👋</h1>
+<h1 align="center">👋 Hi, I'm Sachin Kharat</h1>
 
-<p align="center">Frontend Developer crafting clean and responsive interfaces with React.</p>
+<p align="center">Frontend Developer crafting clean, responsive and modern web interfaces using React.</p>
 
 ---
 
 ### 🚀 About Me
-I build web apps with a focus on clear UI structure, reusable components, and smooth user experience.  
-Currently sharpening my React patterns and modern JavaScript skills.
+I turn ideas into fast, simple and user-focused web apps.  
+My current focus is building component-driven UIs, improving architecture, and sharpening modern JavaScript skills.
+
+---
+
+### 🔗 Social & Portfolio
+<p>
+  <a href="https://www.linkedin.com/in/sachinkharat53/">LinkedIn</a> •
+  <a href="https://sachinkharatportforlio.netlify.app/">Portfolio</a> •
+  <a href="https://github.com/SachinKharat-Developer">GitHub</a>
+</p>
 
 ---
 
@@ -26,16 +35,20 @@ Currently sharpening my React patterns and modern JavaScript skills.
 
 #### 🔹 Personal Task Tracker  
 A simple and clean task-management app built with React.  
-Organizing tasks with smooth UI flow and reusable components.
+Helps users track tasks with smooth UI flow and reusable components.  
+**Live:** **https://sachinkharatproject.netlify.app/**  
+
+---
 
 #### 🔹 Google Gemini Clone (React)  
-A minimal UI clone inspired by Google Gemini’s interface.  
-Demonstrates component composition, layout control, and clean styling.
+A minimal UI clone inspired by Google Gemini — built for learning component layout, search UI, and structure.  
+**Live:** **https://sachinkharatproject01.netlify.app/** 
 
 ---
 
 ### 📬 Contact
-Email: **kharatsukmar@gmail.com**
+**Email:** kharatsukmar@gmail.com  
+Let’s connect and build something great.
 
 ---
 
